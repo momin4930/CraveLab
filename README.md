@@ -75,7 +75,7 @@ These tools were selected to ensure a **custom, scalable, and performant** landi
 - **React (JSX)**  
 - **Tailwind CSS**    
 - **Framer Motion** – Animation library for React  
-- **Lucide React** – For icons (optional)
+- **Lucide React** – For icons
 
 ---
 
