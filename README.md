@@ -6,7 +6,7 @@ Welcome to **Crave Lab**, a modern and stylish animated landing page built for a
 
 ## 🔥 Live Preview
 
-[**https://momin4930.github.io/CraveLab/**](#)  
+https://momin4930.github.io/CraveLab/
 
 
 ---
