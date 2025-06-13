@@ -6,8 +6,8 @@ Welcome to **Crave Lab**, a modern and stylish animated landing page built for a
 
 ## 🔥 Live Preview
 
-[**View Demo (optional)**](#)  
-*(Add link if deployed via Vercel/Netlify)*
+[**https://momin4930.github.io/CraveLab/**](#)  
+
 
 ---
 
