@@ -64,7 +64,7 @@ All animations are optimized to be lightweight and non-distracting, supporting p
 - **React (JSX)**: Modular structure allows clean and reusable component development (e.g., Navbar, Hero, Footer)  
 - **Tailwind CSS**: Enables fast styling with a consistent, responsive, and maintainable utility-first approach   
 - **Framer Motion**: Offers powerful, smooth animations with full control in React components  
-- **Lucide or Heroicons**: For clean, customizable icons that blend well with the design system  
+- **Lucide React**: For clean, customizable icons that blend well with the design system  
 
 These tools were selected to ensure a **custom, scalable, and performant** landing page without relying on templates or bulky frameworks.
 
@@ -75,7 +75,7 @@ These tools were selected to ensure a **custom, scalable, and performant** landi
 - **React (JSX)**  
 - **Tailwind CSS**    
 - **Framer Motion** – Animation library for React  
-- **Heroicons** or **Lucide React** – For icons (optional)
+- **Lucide React** – For icons (optional)
 
 ---
 
